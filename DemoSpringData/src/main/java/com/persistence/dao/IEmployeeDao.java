@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 import com.persistence.model.Employee;
 
 /**
- * @author ramzi dridi
+ * @author dridi.ramzy@gmail.com
  *
  */
 

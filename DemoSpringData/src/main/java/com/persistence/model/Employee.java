@@ -10,7 +10,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * @author ramzi dridi
+ * @author dridi.ramzy@gmail.com
  *
  */
 @Entity
